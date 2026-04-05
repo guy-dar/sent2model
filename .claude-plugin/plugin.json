@@ -1,0 +1,7 @@
+{
+    "name": "sent2model",
+    "description": "Create datasets and machine learning models from natural language queries.",
+    "version": "0.1.0",
+    "author": {"name": "Guy Dar"},
+    "license": "Apache 2.0"
+}
